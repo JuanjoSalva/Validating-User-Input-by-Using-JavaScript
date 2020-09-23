@@ -12,7 +12,7 @@ Creación de Formularios, recoger y validar los datos introducidos por el usaurio
 *Ejercicio 2: validación con Jvascript antes de que llegue al servidor. Y se pone estilo css si hay datos no válidos.
 
 4. **Dificultad o problemas presentados y como se resolvieron:** 
-Sin problemas
+Ya me he hecho un lio con los repositorios. Creo que este es el del Lab4 con el ejercicio 1 y 2
 
 **NOTA**: Si no hay descripcion de problemas o dificultades, y al yo descargar el código para realizar la comprobacion y el código no funcionar, el resultado de la califaciación del laboratorio será afectado.
 
